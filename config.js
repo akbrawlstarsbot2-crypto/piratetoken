@@ -11,7 +11,7 @@ window.PIRATETOKEN_CONFIG = {
       platform: "Windows"
     },
     cannonCheat: {
-      downloadUrl: "https://github.com/akbrawlstarsbot2-crypto/piratetoken/releases/latest/download/Cannon%20cheat.exe",
+      downloadUrl: "https://github.com/akbrawlstarsbot2-crypto/piratetoken/releases/latest/download/Cannon.cheat.exe",
       platform: "Windows"
     }
   },
