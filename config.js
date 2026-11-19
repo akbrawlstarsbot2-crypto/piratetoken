@@ -6,12 +6,12 @@
 window.PIRATETOKEN_CONFIG = {
   products: {
     chanceChecker: {
-      downloadUrl: "https://github.com/YOUR-GITHUB-USERNAME/piratetoken-site/releases/latest/download/FortnitePirateTokenTool.exe",
+      downloadUrl: "https://github.com/akbrawlstarsbot2-crypto/piratetoken/releases/latest/download/FortnitePirateTokenTool.exe",
       version: "01.0",
       platform: "Windows"
     },
     cannonCheat: {
-      downloadUrl: "https://github.com/YOUR-GITHUB-USERNAME/piratetoken-site/releases/latest/download/Cannon%20cheat.exe",
+      downloadUrl: "https://github.com/akbrawlstarsbot2-crypto/piratetoken/releases/latest/download/Cannon%20cheat.exe",
       platform: "Windows"
     }
   },
